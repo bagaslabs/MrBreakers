@@ -1,0 +1,8 @@
+{
+  "mode": "udp",
+  "host": "103.157.33.94",
+  "port": 5515,
+  "connections": 1000,
+  "interval_ms": 50,
+  "payload": ""
+}
